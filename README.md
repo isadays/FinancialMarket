@@ -17,3 +17,6 @@ Personal notes -  Financial Market Course from Yale University
 - selection bias dealt  with group policies, by testing and referrals, and by mandatory government insurance
 
 -  insurance is a local phenomenon 
+
+
+## CAPITAL ASSET PRICING MODEL (CAPM)
